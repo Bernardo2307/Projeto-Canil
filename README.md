@@ -60,11 +60,5 @@ Este projeto visa ajudar o proprietário de um canil a encontrar o melhor petsho
   - Vite: Ferramenta de build e desenvolvimento.
   - CSS: Para estilização básica da aplicação.
 
-- **Testes**: Testes devem ser realizados para garantir que a lógica de cálculo e a interface estejam funcionando corretamente, especialmente em casos de empate no custo e distância.
-
-- **Contribuição**: Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues para melhorias e correções.
-
-- **Licença**: Este projeto está licenciado sob a [Licença MIT](LICENSE), permitindo a utilização, modificação e distribuição do código.
-
 Se precisar de mais informações ou tiver alguma dúvida, sinta-se à vontade para entrar em contato.
 
